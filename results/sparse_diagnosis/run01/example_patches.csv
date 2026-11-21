@@ -1,0 +1,4 @@
+quantile,patch,tile_x,tile_y,occupied,ground,a_ground_to_building,b_ground_to_building
+0.1,899,33,6,2213,1699,201,165
+0.5,145,5,25,1580,1507,621,391
+0.9,222,8,20,1941,1941,1412,74

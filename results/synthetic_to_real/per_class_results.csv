@@ -1,0 +1,133 @@
+model,split,semantic_class,true_voxels,iou
+E1,synthetic_val,ground,182079,0.7124330835681463
+E1,synthetic_val,building,147186,0.4556077223325354
+E1,synthetic_val,vegetation,87087,0.6443328263158774
+E1,synthetic_val,cars,12019,0.11332724047094242
+E1,synthetic_val,lightStreetSigns,950,0.0263671875
+E1,synthetic_val,fences,1877,0.0
+E1,wmsc_test,ground,1258154,0.4833725272267666
+E1,wmsc_test,building,212788,0.19344164565059396
+E1,wmsc_test,vegetation,387965,0.32012391470279555
+E1,wmsc_test,cars,7043,0.01469637357940535
+E1,wmsc_test,lightStreetSigns,1387,0.05523442517662171
+E1,wmsc_test,fences,14817,0.00019329896907216494
+E2,synthetic_val,ground,182079,0.6784703764040126
+E2,synthetic_val,building,147186,0.5014061279876807
+E2,synthetic_val,vegetation,87087,0.7128797011798652
+E2,synthetic_val,cars,12019,0.14823189498147102
+E2,synthetic_val,lightStreetSigns,950,0.10613682092555332
+E2,synthetic_val,fences,1877,0.00047460844803037496
+E2,wmsc_test,ground,1258154,0.4751848083892173
+E2,wmsc_test,building,212788,0.254419755666597
+E2,wmsc_test,vegetation,387965,0.30806100507195133
+E2,wmsc_test,cars,7043,0.023186540131125945
+E2,wmsc_test,lightStreetSigns,1387,0.10400166736140058
+E2,wmsc_test,fences,14817,0.004907606790525315
+E3,synthetic_val,ground,182079,0.6772367709075917
+E3,synthetic_val,building,147186,0.5114424035004116
+E3,synthetic_val,vegetation,87087,0.7159375912813126
+E3,synthetic_val,cars,12019,0.1697184366932821
+E3,synthetic_val,lightStreetSigns,950,0.010070493454179255
+E3,synthetic_val,fences,1877,0.0
+E3,wmsc_test,ground,1258154,0.4939720952722036
+E3,wmsc_test,building,212788,0.2457189231865105
+E3,wmsc_test,vegetation,387965,0.30778423373305314
+E3,wmsc_test,cars,7043,0.015799176017914807
+E3,wmsc_test,lightStreetSigns,1387,0.019375
+E3,wmsc_test,fences,14817,0.0007271765716929993
+control_for_20,synthetic_val,ground,182079,0.650709366962582
+control_for_20,synthetic_val,building,147186,0.5013789730033512
+control_for_20,synthetic_val,vegetation,87087,0.7020148992550372
+control_for_20,synthetic_val,cars,12019,0.1909533352419124
+control_for_20,synthetic_val,lightStreetSigns,950,0.12889908256880733
+control_for_20,synthetic_val,fences,1877,0.0
+control_for_20,wmsc_test,ground,1258154,0.4846957430724263
+control_for_20,wmsc_test,building,212788,0.24255338892055622
+control_for_20,wmsc_test,vegetation,387965,0.3032001382205991
+control_for_20,wmsc_test,cars,7043,0.021379053645372913
+control_for_20,wmsc_test,lightStreetSigns,1387,0.11335215812827754
+control_for_20,wmsc_test,fences,14817,0.003230123206128005
+control_for_40,synthetic_val,ground,182079,0.650709366962582
+control_for_40,synthetic_val,building,147186,0.5013789730033512
+control_for_40,synthetic_val,vegetation,87087,0.7020148992550372
+control_for_40,synthetic_val,cars,12019,0.1909533352419124
+control_for_40,synthetic_val,lightStreetSigns,950,0.12889908256880733
+control_for_40,synthetic_val,fences,1877,0.0
+control_for_40,wmsc_test,ground,1258154,0.4846957430724263
+control_for_40,wmsc_test,building,212788,0.24255338892055622
+control_for_40,wmsc_test,vegetation,387965,0.3032001382205991
+control_for_40,wmsc_test,cars,7043,0.021379053645372913
+control_for_40,wmsc_test,lightStreetSigns,1387,0.11335215812827754
+control_for_40,wmsc_test,fences,14817,0.003230123206128005
+E4 Non-IID,synthetic_val,ground,182079,0.8413959131061152
+E4 Non-IID,synthetic_val,building,147186,0.6452283751129911
+E4 Non-IID,synthetic_val,vegetation,87087,0.6852474634401944
+E4 Non-IID,synthetic_val,cars,12019,0.06584615384615385
+E4 Non-IID,synthetic_val,lightStreetSigns,950,0.0
+E4 Non-IID,synthetic_val,fences,1877,0.0005227391531625719
+E4 Non-IID,wmsc_test,ground,1258154,0.2679532493036957
+E4 Non-IID,wmsc_test,building,212788,0.2219114986017437
+E4 Non-IID,wmsc_test,vegetation,387965,0.2971552958721116
+E4 Non-IID,wmsc_test,cars,7043,0.002863795985051924
+E4 Non-IID,wmsc_test,lightStreetSigns,1387,0.0013736263736263737
+E4 Non-IID,wmsc_test,fences,14817,0.0009162903331369854
+E4 IID,synthetic_val,ground,182079,0.8283741490912806
+E4 IID,synthetic_val,building,147186,0.625262564065632
+E4 IID,synthetic_val,vegetation,87087,0.6775525455394675
+E4 IID,synthetic_val,cars,12019,0.06587697423108894
+E4 IID,synthetic_val,lightStreetSigns,950,0.002072538860103627
+E4 IID,synthetic_val,fences,1877,0.0
+E4 IID,wmsc_test,ground,1258154,0.31979163933945565
+E4 IID,wmsc_test,building,212788,0.24139544054840956
+E4 IID,wmsc_test,vegetation,387965,0.2937799722377576
+E4 IID,wmsc_test,cars,7043,0.0030657372787438763
+E4 IID,wmsc_test,lightStreetSigns,1387,0.0020477815699658703
+E4 IID,wmsc_test,fences,14817,0.0003324468085106383
+E5 Non-IID,synthetic_val,ground,182079,0.8285297198405589
+E5 Non-IID,synthetic_val,building,147186,0.6519915266879494
+E5 Non-IID,synthetic_val,vegetation,87087,0.7164917955190911
+E5 Non-IID,synthetic_val,cars,12019,0.21012253008058285
+E5 Non-IID,synthetic_val,lightStreetSigns,950,0.07517482517482517
+E5 Non-IID,synthetic_val,fences,1877,0.016472478907191643
+E5 Non-IID,wmsc_test,ground,1258154,0.3385182241865012
+E5 Non-IID,wmsc_test,building,212788,0.2574110083733481
+E5 Non-IID,wmsc_test,vegetation,387965,0.29300626930595375
+E5 Non-IID,wmsc_test,cars,7043,0.01648149628327072
+E5 Non-IID,wmsc_test,lightStreetSigns,1387,0.11767241379310345
+E5 Non-IID,wmsc_test,fences,14817,0.018308457711442787
+E5 IID,synthetic_val,ground,182079,0.8232602646822466
+E5 IID,synthetic_val,building,147186,0.6379099748452013
+E5 IID,synthetic_val,vegetation,87087,0.7175948210654538
+E5 IID,synthetic_val,cars,12019,0.20239836209417958
+E5 IID,synthetic_val,lightStreetSigns,950,0.06721915285451197
+E5 IID,synthetic_val,fences,1877,0.018219461697722567
+E5 IID,wmsc_test,ground,1258154,0.3798347336990487
+E5 IID,wmsc_test,building,212788,0.27636542007070247
+E5 IID,wmsc_test,vegetation,387965,0.2936707370321492
+E5 IID,wmsc_test,cars,7043,0.01907684098185699
+E5 IID,wmsc_test,lightStreetSigns,1387,0.1166422645192777
+E5 IID,wmsc_test,fences,14817,0.01769641495041953
+E6 Non-IID,synthetic_val,ground,182079,0.7713961457037474
+E6 Non-IID,synthetic_val,building,147186,0.5722217863372181
+E6 Non-IID,synthetic_val,vegetation,87087,0.7253019384958895
+E6 Non-IID,synthetic_val,cars,12019,0.2041590850012997
+E6 Non-IID,synthetic_val,lightStreetSigns,950,0.007858546168958742
+E6 Non-IID,synthetic_val,fences,1877,0.0
+E6 Non-IID,wmsc_test,ground,1258154,0.40593462664066626
+E6 Non-IID,wmsc_test,building,212788,0.2786709205881509
+E6 Non-IID,wmsc_test,vegetation,387965,0.29843529965690063
+E6 Non-IID,wmsc_test,cars,7043,0.01211484593837535
+E6 Non-IID,wmsc_test,lightStreetSigns,1387,0.022437531871494134
+E6 Non-IID,wmsc_test,fences,14817,0.0007236366028550754
+E6 IID,synthetic_val,ground,182079,0.7648574247274075
+E6 IID,synthetic_val,building,147186,0.55615005446787
+E6 IID,synthetic_val,vegetation,87087,0.7247828586992706
+E6 IID,synthetic_val,cars,12019,0.1821143887822191
+E6 IID,synthetic_val,lightStreetSigns,950,0.008121827411167513
+E6 IID,synthetic_val,fences,1877,0.0
+E6 IID,wmsc_test,ground,1258154,0.4249316451372358
+E6 IID,wmsc_test,building,212788,0.2906546919549385
+E6 IID,wmsc_test,vegetation,387965,0.29326330389676886
+E6 IID,wmsc_test,cars,7043,0.013904942637798672
+E6 IID,wmsc_test,lightStreetSigns,1387,0.01084010840108401
+E6 IID,wmsc_test,fences,14817,0.0005949626495669995

@@ -1,0 +1,7 @@
+split,scene,semantic_class,patches,voxels,patches_with_class
+external_test,WMSC,ground,1683,1258154,1470
+external_test,WMSC,building,1683,212788,344
+external_test,WMSC,vegetation,1683,387965,898
+external_test,WMSC,cars,1683,7043,34
+external_test,WMSC,lightStreetSigns,1683,1387,23
+external_test,WMSC,fences,1683,14817,123

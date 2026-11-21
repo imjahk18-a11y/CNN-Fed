@@ -1,0 +1,31 @@
+scene,version,class_name,points,voxels,patches_with_class
+v1_Nevada,1,Ground,20043114,4007136,3600
+v1_Nevada,1,Building,1767713,370646,3097
+v1_Nevada,1,Tree,0,0,0
+v1_Nevada,1,Car,0,0,0
+v1_Nevada,1,Light pole,247742,63346,1067
+v1_Nevada,1,Fence,0,0,0
+v3_3_points_GTv3,3,Ground,10417088,1993510,2343
+v3_3_points_GTv3,3,Building,7077520,1457465,1208
+v3_3_points_GTv3,3,Tree,2045909,465914,355
+v3_3_points_GTv3,3,Car,641060,137689,583
+v3_3_points_GTv3,3,Light pole,81443,18797,252
+v3_3_points_GTv3,3,Fence,35944,7724,29
+v3_12_points_GTv3,3,Ground,9427160,1801134,2201
+v3_12_points_GTv3,3,Building,7353624,1486167,1197
+v3_12_points_GTv3,3,Tree,3515201,805451,492
+v3_12_points_GTv3,3,Car,478253,105753,558
+v3_12_points_GTv3,3,Light pole,56981,12593,200
+v3_12_points_GTv3,3,Fence,72734,15353,40
+v3_13_points_GTv3,3,Ground,10270212,1983861,2286
+v3_13_points_GTv3,3,Building,8485966,1690284,1301
+v3_13_points_GTv3,3,Tree,1422843,325878,164
+v3_13_points_GTv3,3,Car,680526,147834,671
+v3_13_points_GTv3,3,Light pole,92100,20464,264
+v3_13_points_GTv3,3,Fence,40543,6889,15
+v3_4_points_GTv3,3,Ground,11036761,2133222,2520
+v3_4_points_GTv3,3,Building,8031605,1763506,1089
+v3_4_points_GTv3,3,Tree,1883739,430167,378
+v3_4_points_GTv3,3,Car,563638,125634,615
+v3_4_points_GTv3,3,Light pole,91724,20745,293
+v3_4_points_GTv3,3,Fence,12044,2633,14

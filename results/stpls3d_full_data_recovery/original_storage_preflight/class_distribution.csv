@@ -1,0 +1,25 @@
+version,scene,class_id,class_name,points,occupied_voxels,patches_with_class
+3,3_points_GTv3,0,Ground,10417088,1993510,2343
+3,3_points_GTv3,1,Building,7077520,1457465,1208
+3,3_points_GTv3,2,Tree,2045909,465914,355
+3,3_points_GTv3,3,Car,641060,137689,583
+3,3_points_GTv3,4,Light pole,81443,18797,252
+3,3_points_GTv3,5,Fence,35944,7724,29
+3,12_points_GTv3,0,Ground,9427160,1801134,2201
+3,12_points_GTv3,1,Building,7353624,1486167,1197
+3,12_points_GTv3,2,Tree,3515201,805451,492
+3,12_points_GTv3,3,Car,478253,105753,558
+3,12_points_GTv3,4,Light pole,56981,12593,200
+3,12_points_GTv3,5,Fence,72734,15353,40
+3,13_points_GTv3,0,Ground,10270212,1983861,2286
+3,13_points_GTv3,1,Building,8485966,1690284,1301
+3,13_points_GTv3,2,Tree,1422843,325878,164
+3,13_points_GTv3,3,Car,680526,147834,671
+3,13_points_GTv3,4,Light pole,92100,20464,264
+3,13_points_GTv3,5,Fence,40543,6889,15
+3,4_points_GTv3,0,Ground,11036761,2133222,2520
+3,4_points_GTv3,1,Building,8031605,1763506,1089
+3,4_points_GTv3,2,Tree,1883739,430167,378
+3,4_points_GTv3,3,Car,563638,125634,615
+3,4_points_GTv3,4,Light pole,91724,20745,293
+3,4_points_GTv3,5,Fence,12044,2633,14

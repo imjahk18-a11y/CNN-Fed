@@ -1,0 +1,4 @@
+pruning_pct,widths,parameters,state_bytes,checkpoint_bytes,fixed_batch_macs,fixed_batch_voxels
+0,"(16, 32, 16)",9526,38640,44301,193966288,42151
+20,"(13, 26, 13)",6376,25944,31911,130129714,42151
+40,"(10, 19, 10)",3714,15192,21415,76450950,42151

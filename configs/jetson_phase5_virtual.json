@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "batch_size": 1,
+  "batch_sweep": [1, 2, 4],
+  "pruning_percent": [0, 20],
+  "codecs": ["FP32", "INT8"],
+  "smoke_rounds": 2,
+  "rounds": 10,
+  "local_epochs": 1,
+  "workers": 0,
+  "compute_dtype": "FP32",
+  "split": "results/distributed_ai/split.json",
+  "budget_gib": [4, 8],
+  "os_reserve_gib": 1,
+  "allocator_cap_gib": {"4": 2, "8": 6},
+  "comparison_budget_gib": 4
+}

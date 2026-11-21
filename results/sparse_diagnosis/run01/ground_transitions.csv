@@ -1,0 +1,7 @@
+prediction_A,Ground,Building,Tree,Car,Light pole,Fence
+Ground,317625,143956,72738,896,0,0
+Building,81553,275988,260120,9067,3,0
+Tree,11142,33907,188663,2295,0,0
+Car,1772,5368,7754,5805,0,0
+Light pole,0,20,48,3,4,0
+Fence,0,0,0,0,0,0
